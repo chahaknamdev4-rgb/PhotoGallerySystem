@@ -9,4 +9,5 @@ This is a responsive Image Gallery Web Application created using HTML, CSS, and 
 - JavaScript
 
 2)  How to Run
+
 Open the index.html file in any web browser.
